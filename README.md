@@ -1,6 +1,6 @@
 # DocOps AI
 
-**Live Demo:** https://docops-ai-demo.netlify.app
+**Live Demo:** https://docops-ai-demo.vercel.app
 
 **Bilingual (EN / AR RTL) Document RAG & Human-in-the-Loop Approval Ops Platform**
 
