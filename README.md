@@ -1,5 +1,7 @@
 # DocOps AI
 
+**Live Demo:** https://docops-ai-demo.netlify.app
+
 **Bilingual (EN / AR RTL) Document RAG & Human-in-the-Loop Approval Ops Platform**
 
 DocOps AI is an enterprise document intelligence and compliance operations workspace built for legal, procurement, and Gulf/MENA bilingual workflows. It combines citation-grounded Retrieval-Augmented Generation (RAG) across English and Arabic documents with RBAC-gated clause approval queues and an immutable request-traced audit trail.
